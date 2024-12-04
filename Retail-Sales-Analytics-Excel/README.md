@@ -16,7 +16,7 @@ Some of the questions that will be answered in this project are:
 4. Which product has the highest sales?
 
 <h3>
-    Tools used:
+    Tools used
 </h3> 
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
